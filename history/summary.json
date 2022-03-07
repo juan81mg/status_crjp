@@ -5,23 +5,21 @@
     "icon": "https://favicons.githubusercontent.com/www.cajapolicia.gob.ar",
     "slug": "caja-web",
     "status": "down",
-    "uptime": "44.25%",
-    "uptimeDay": "44.25%",
-    "uptimeWeek": "44.25%",
-    "uptimeMonth": "44.25%",
-    "uptimeYear": "44.25%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-03-07": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Caja Mail",
-    "url": "https://mail.cajapolicia.gob.ar",
+    "url": "https://mail.cajapolicia.gob.ar/owa",
     "icon": "https://favicons.githubusercontent.com/mail.cajapolicia.gob.ar",
     "slug": "caja-mail",
     "status": "up",
@@ -30,31 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2047,
-    "timeDay": 2047,
-    "timeWeek": 2047,
-    "timeMonth": 2047,
-    "timeYear": 2047,
+    "time": 1919,
+    "timeDay": 1919,
+    "timeWeek": 1919,
+    "timeMonth": 1919,
+    "timeYear": 1919,
     "dailyMinutesDown": {}
   },
   {
     "name": "Caja Cloud",
-    "url": "https://cloud.cajapolicia.gob.ar",
+    "url": "https://cloud.cajapolicia.gob.ar/index.php/login",
     "icon": "https://favicons.githubusercontent.com/cloud.cajapolicia.gob.ar",
     "slug": "caja-cloud",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-07": 14
+      "2022-03-07": 34
     }
   }
 ]
