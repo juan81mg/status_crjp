@@ -6,9 +6,9 @@ sites:
   - name: Caja Web
     url: https://www.cajapolicia.gob.ar
   - name: Caja Mail
-    url: https://mail.cajapolicia.gob.ar
+    url: https://mail.cajapolicia.gob.ar/owa
   - name: Caja Cloud
-    url: https://cloud.cajapolicia.gob.ar
+    url: https://cloud.cajapolicia.gob.ar/index.php/login
 
 assignees:
   - juan81mg
