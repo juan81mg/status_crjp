@@ -4,7 +4,7 @@ repo: status_crjp # The name of this repository
 
 sites:
   - name: Caja Web
-    url: https://cajapolicia.gob.ar
+    url: https://www.cajapolicia.gob.ar
   - name: Caja Mail
     url: https://mail.cajapolicia.gob.ar
   - name: Caja Cloud
