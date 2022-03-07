@@ -19,14 +19,14 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status_crjp
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Box Life Test
   introTitle: "**Life Test**"
   introMessage: powered Infra
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  #  - title: GitHub
+  #    href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
