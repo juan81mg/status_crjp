@@ -9,6 +9,8 @@ sites:
     url: https://mail.cajapolicia.gob.ar
   - name: Caja Cloud
     url: https://cloud.cajapolicia.gob.ar
+  - name: Gedeba
+    url: https://cas.gdeba.gba.gob.ar
 
 assignees:
   - juan81mg
