@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.cajapolicia.gob.ar",
     "slug": "caja-web",
     "status": "down",
-    "uptime": "0.35%",
-    "uptimeDay": "0.35%",
-    "uptimeWeek": "0.35%",
-    "uptimeMonth": "0.35%",
-    "uptimeYear": "0.35%",
+    "uptime": "44.25%",
+    "uptimeDay": "44.25%",
+    "uptimeWeek": "44.25%",
+    "uptimeMonth": "44.25%",
+    "uptimeYear": "44.25%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-07": 7
+      "2022-03-07": 8
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2208,
-    "timeDay": 2208,
-    "timeWeek": 2208,
-    "timeMonth": 2208,
-    "timeYear": 2208,
+    "time": 2047,
+    "timeDay": 2047,
+    "timeWeek": 2047,
+    "timeMonth": 2047,
+    "timeYear": 2047,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/cloud.cajapolicia.gob.ar",
     "slug": "caja-cloud",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-07": 7
+      "2022-03-07": 14
     }
   }
 ]
