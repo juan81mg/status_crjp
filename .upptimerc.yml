@@ -4,9 +4,9 @@ repo: status_crjp # The name of this repository
 
 sites:
   - name: Caja Web
-    url: https://www.cajapolicia.gob.ar
+    url: https://cajapolicia.gob.ar
   - name: Caja Mail
-    url: https://mail.cajapolicia.gob.ar
+    url: https://www.mail.cajapolicia.gob.ar
   - name: Caja Cloud
     url: https://cloud.cajapolicia.gob.ar
   - name: Gedeba
@@ -32,6 +32,5 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
-status-website:
   theme: dark
+
