@@ -6,7 +6,7 @@ sites:
   - name: Caja Web
     url: https://cajapolicia.gob.ar
   - name: Caja Mail
-    url: https://www.mail.cajapolicia.gob.ar
+    url: https://mail.cajapolicia.gob.ar
   - name: Caja Cloud
     url: https://cloud.cajapolicia.gob.ar
   - name: Gedeba
