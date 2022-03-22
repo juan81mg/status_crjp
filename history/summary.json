@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/mail.cajapolicia.gob.ar",
     "slug": "caja-mail",
     "status": "up",
-    "uptime": "86.86%",
+    "uptime": "87.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
-    "uptimeMonth": "86.86%",
-    "uptimeYear": "86.86%",
+    "uptimeMonth": "87.32%",
+    "uptimeYear": "87.32%",
     "time": 2049,
     "timeDay": 1809,
     "timeWeek": 2244,
@@ -65,9 +65,9 @@
     "url": "https://cas.gdeba.gba.gob.ar",
     "icon": "https://favicons.githubusercontent.com/cas.gdeba.gba.gob.ar",
     "slug": "gedeba",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,6 +76,8 @@
     "timeWeek": 3045,
     "timeMonth": 3460,
     "timeYear": 3460,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-22": 0
+    }
   }
 ]
